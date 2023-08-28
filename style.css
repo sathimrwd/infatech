@@ -1,0 +1,35 @@
+.my-link-style:hover{text-decoration: underline;}
+
+.my-link-style:hover{color: rgb(81, 81, 218);}
+
+hr{width: 200px; color: white; }
+
+#logo{ display: block; margin: auto; margin-top: 20px; padding: 5px;}
+
+.card-img-top{ width: 50px;}
+
+.features-col:hover{ box-shadow: 2px 6px 5px black;  border-radius: 10px;  border:3px solid rgb(137, 137, 235);}
+
+.one{display: flex;}
+
+.ful{width: 2000px; color: white;}
+
+.two{width: 500px;}
+
+.d-flex li{list-style: none; margin-left: 8px;}
+
+#caro{ display: flex;}
+
+.two{display: flex;margin-right: 10px;}
+
+.frist{background: url(conban.webp); background-repeat: no-repeat;opacity: 0.6; background-size: cover; min-height: 40vh;width: 100%; margin-top: 100px;padding: 20px;text-align: center;color: white;}
+
+.titel{ margin-top: 120px;}
+
+.img{ opacity: 0.6; position: relative;}
+
+.btn-two{  position: absolute; text-align: center;}
+
+
+
+       
